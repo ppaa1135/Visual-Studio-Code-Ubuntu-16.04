@@ -11,6 +11,6 @@
       sudo apt-get update
       sudo apt-get install code
     
-* __3. excute__
+* __3. execute__
       
       code
